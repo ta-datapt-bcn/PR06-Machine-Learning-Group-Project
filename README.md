@@ -52,11 +52,11 @@ Group ?
 
 ## Checkpoints:
 
-Week 0.- Groups - Repo - Organisation
-Week 1.- EDA
-Week 2.- Feature Engineering
-Week 3.- Modeling
-Week 4.- Optimisation & Presentation
+* Week 0.- Groups - Repo - Organisationç
+* Week 1.- EDA
+* Week 2.- Feature Engineering
+* Week 3.- Modeling
+* Week 4.- Optimisation & Presentation
 
 
 
